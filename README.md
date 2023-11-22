@@ -7,7 +7,7 @@ Atividade Avaliativa II
 
 1. Explique a distância de Manhattan.
 
-Resposta: A distância de Manhattan é a uma medida de distância entre dois pontos em um espaço euclidiano com uma grade de pontos.
+Resposta: É a medida de distância entre dois pontos em um espaço euclidiano com uma grade de pontos.
 
 A Fórmula para calcular a distância entre dois pontos (x1,y1) e (x2,y2) em uma plano bidimensional = |x2-x1|+|y2-y1|
 
@@ -18,7 +18,7 @@ Exemplo: A distância de Manhattan é a soma das diferenças absolutas entre as 
 
 2. Explique a distância euclidiana.
 
-Resposta:
+Resposta: É uma medida de distância entre dois pontos em um espaço euclidiano, essa distância é baseada no teorema de Pitágoras é usada constantemente para medir a distância entre dois pontos em dimensões superiores.
 
 
 3. Explique a distância de Hamming.
