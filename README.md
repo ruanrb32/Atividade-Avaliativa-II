@@ -22,6 +22,12 @@ Resposta: É uma medida de distância entre dois pontos em um espaço euclidiano
 
 
 3. Explique a distância de Hamming.
+
+Resposta: A distância de Hamming é uma medida que expressa a diferença entre duas cordas de igual comprimento. Ela é frequentemente usada em teoria da informação, ciência da computação e teoria dos códigos. A distância de Hamming é calculada contando o número de posições em que os símbolos correspondentes são diferentes. Vamos considerar um exemplo simples com duas sequências de bits: - Sequência 1: 1010101 - Sequência 2: 1001001 Ao comparar bit a bit, vemos que existem três posições em que os bits são diferentes (posições 2, 4 e 6). Portanto, a distância de Hamming entre essas duas sequências é 3. Esta medida é relevante em várias aplicações, incluindo: 1. Detecção e Correção de Erros: Em sistemas de comunicação digital, a distância de Hamming é usada para detectar e corrigir erros na transmissão de dados. 
+
+
+
+
 4. Explique o que é aprendizado não-supervisionado.
 5. Explique o que é um cluster.
 6. Explique o funcionamento do algoritmo K-Means.
