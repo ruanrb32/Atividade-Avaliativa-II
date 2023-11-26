@@ -2,7 +2,6 @@
  Atividade 2
 
 
-
 Atividade Avaliativa II
 
 1. Explique a distância de Manhattan.
@@ -18,19 +17,41 @@ Exemplo: A distância de Manhattan é a soma das diferenças absolutas entre as 
 
 2. Explique a distância euclidiana.
 
-Resposta: É uma medida de distância entre dois pontos em um espaço euclidiano, essa distância é baseada no teorema de Pitágoras é usada constantemente para medir a distância entre dois pontos em dimensões superiores.
+Resposta: É uma medida de distância entre dois pontos em um espaço euclidiano, ela representa a distancia ''em linha reta'' entre dois pontos em um espaço bidimensional ou tridimensional.
 
+A Fórmula para calcular em plano Bidimensional:
+
+d = √(x2-x1)² + (y2-y1)² 
+
+A Fórmula para calcular em plano Tridimensional
+
+d = √(x2-x1)² + (y2-y1)² + (z2-z1)²
+
+''d'' é a distância Euclidiana
+''√'' denota a raiz quadrada
 
 3. Explique a distância de Hamming.
 
-Resposta: A distância de Hamming é uma medida que expressa a diferença entre duas cordas de igual comprimento. Ela é frequentemente usada em teoria da informação, ciência da computação e teoria dos códigos. A distância de Hamming é calculada contando o número de posições em que os símbolos correspondentes são diferentes. Vamos considerar um exemplo simples com duas sequências de bits: - Sequência 1: 1010101 - Sequência 2: 1001001 Ao comparar bit a bit, vemos que existem três posições em que os bits são diferentes (posições 2, 4 e 6). Portanto, a distância de Hamming entre essas duas sequências é 3. Esta medida é relevante em várias aplicações, incluindo: 1. Detecção e Correção de Erros: Em sistemas de comunicação digital, a distância de Hamming é usada para detectar e corrigir erros na transmissão de dados. 
+Resposta: É uma medida que expressa a diferença entre duas sequências de igual comprimento, contando o número de posições nas quais os símbolos correspondentes são diferentes. 
 
+Exemplo distância de Hamming entre:
 
-
+"elabore" e "melhore" é 4.
+2173896 e 2233796 é 3.
+11011 e 10011 é 1.
 
 4. Explique o que é aprendizado não-supervisionado.
+
+Resposta: O aprendizado não supervisionado é um paradigma de aprendizado de máquina em que o algoritmo é treinado em um conjunto de dados que não possui rótulos ou saídas desejadas conhecidas. Em vez de receber um conjunto de dados rotulado, onde o algoritmo é informado sobre a relação entre as entradas e as saídas correspondentes, o aprendizado não supervisionado explora a estrutura ou padrões subjacentes nos dados sem orientação externa. 
+
 5. Explique o que é um cluster.
+
+Resposta: Em termos de aprendizado de máquina e análise de dados, um "cluster" refere-se a um grupo de objetos ou pontos de dados que compartilham características semelhantes entre si, mas que são distintos de outros grupos. Em outras palavras, um cluster é uma coleção de elementos que são mais semelhantes entre si do que com elementos fora desse grupo. Por exemplo, se você tiver um conjunto de dados de clientes com base em suas preferências de compra, um algoritmo de agrupamento pode identificar diferentes clusters de clientes que compartilham padrões de compra semelhantes. Cada cluster representaria um grupo de clientes com características de compra comuns.
+
+
 6. Explique o funcionamento do algoritmo K-Means.
+
+
 7. Explique o que é aprendizado supervisionado.
 8. Explique o funcionamento do algoritmo KNN.
 9. Comente sobre uma área de aplicação da IA na indústria automobilística.
