@@ -10,7 +10,7 @@ Atividade Avaliativa II
 
 **01.Explique a distância de Manhattan.**
 
- Resposta: É a medida de distância entre dois pontos em um espaço euclidiano com uma grade de pontos.
+  Resposta: É a medida de distância entre dois pontos em um espaço euclidiano com uma grade de pontos.
 
 A Fórmula para calcular a distância entre dois pontos (x1,y1) e (x2,y2) em uma plano bidimensional = |x2-x1|+|y2-y1|
 
