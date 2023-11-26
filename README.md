@@ -87,5 +87,21 @@ Conclusão: O ponto é classificado ou sua saída é prevista com base na maiori
 
 9. Comente sobre uma área de aplicação da IA na indústria automobilística.
 
+Resposta: Veículos Autônomos: A IA é fundamental para o desenvolvimento de veículos autônomos. Algoritmos avançados de aprendizado de máquina e visão computacional são usados para interpretar dados de sensores, como câmeras, radares e lidar, permitindo que os veículos tomem decisões em tempo real e naveguem de forma autônoma.
+
+Assistência ao Motorista: Sistemas de assistência ao motorista, como controle de cruzeiro adaptativo, assistência de estacionamento e alertas de colisão, fazem uso de técnicas de IA para monitorar o ambiente ao redor do veículo, interpretar padrões e tomar decisões para melhorar a segurança e a conveniência.
+
+Manutenção Preditiva: A IA é usada para analisar dados dos sensores do veículo e prever quando peças podem falhar ou precisar de manutenção. Isso permite a implementação de estratégias de manutenção preditiva, reduzindo os custos e aumentando a eficiência operacional.
+
+Personalização do Veículo:A IA é aplicada para analisar o comportamento do motorista, preferências e dados de uso para personalizar a experiência do veículo. Isso pode incluir ajuste automático de configurações, sugestões de rotas personalizadas e recomendações de entretenimento.
+
+Segurança Viária: Algoritmos de visão computacional e aprendizado de máquina são usados para monitorar o comportamento do motorista e identificar sinais de fadiga, distração ou comportamento perigoso. Sistemas de alerta podem então intervir para evitar acidentes.
+
+Otimização da Cadeia de Suprimentos: A IA é aplicada na otimização da cadeia de suprimentos, ajudando a prever a demanda por peças, gerenciar inventário de forma eficiente e melhorar a eficácia geral da produção.
+
+Desenvolvimento de Veículos: A IA é usada no processo de design e desenvolvimento de veículos para simulação avançada, otimização de design, e prototipagem virtual, acelerando o ciclo de desenvolvimento e reduzindo custos.
+
+Análise de Dados e Conectividade: A coleta e análise de dados gerados pelos veículos conectados são facilitadas por algoritmos de IA. Isso fornece insights valiosos para os fabricantes sobre o desempenho dos veículos, preferências dos motoristas e necessidades de manutenção.
+
 10. Com base no tutorial disponível em: https://ateliware.com/blog/classificacao-knn-k-
 means. Implemente uma solução para o dataset Iris.
