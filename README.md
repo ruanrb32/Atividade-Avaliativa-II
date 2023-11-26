@@ -8,7 +8,7 @@
 Atividade Avaliativa II
 
 
-1. Explique a distância de Manhattan.
+(**)01.Explique a distância de Manhattan.(**) 
 
 Resposta: É a medida de distância entre dois pontos em um espaço euclidiano com uma grade de pontos.
 
@@ -20,7 +20,7 @@ Exemplo: A distância de Manhattan é a soma das diferenças absolutas entre as 
 
 
 
-2. Explique a distância euclidiana.
+(**)02.Explique a distância euclidiana.(**) 
 
 Resposta: É uma medida de distância entre dois pontos em um espaço euclidiano, ela representa a distancia ''em linha reta'' entre dois pontos em um espaço bidimensional ou tridimensional.
 
@@ -35,7 +35,7 @@ d = √(x2-x1)² + (y2-y1)² + (z2-z1)²
 ''d'' é a distância Euclidiana
 ''√'' denota a raiz quadrada
 
-3. Explique a distância de Hamming.
+(**)03.Explique a distância de Hamming.(**) 
 
 Resposta: É uma medida que expressa a diferença entre duas sequências de igual comprimento, contando o número de posições nas quais os símbolos correspondentes são diferentes. 
 
@@ -45,16 +45,16 @@ Exemplo distância de Hamming entre:
 2173896 e 2233796 é 3.
 11011 e 10011 é 1.
 
-4. Explique o que é aprendizado não-supervisionado.
+(**)04.Explique o que é aprendizado não-supervisionado.(**) 
 
 Resposta: O aprendizado não supervisionado é um paradigma de aprendizado de máquina em que o algoritmo é treinado em um conjunto de dados que não possui rótulos ou saídas desejadas conhecidas. Em vez de receber um conjunto de dados rotulado, onde o algoritmo é informado sobre a relação entre as entradas e as saídas correspondentes, o aprendizado não supervisionado explora a estrutura ou padrões subjacentes nos dados sem orientação externa. 
 
-5. Explique o que é um cluster.
+(**)05.Explique o que é um cluster.(**) 
 
 Resposta: Em termos de aprendizado de máquina e análise de dados, um "cluster" refere-se a um grupo de objetos ou pontos de dados que compartilham características semelhantes entre si, mas que são distintos de outros grupos. Em outras palavras, um cluster é uma coleção de elementos que são mais semelhantes entre si do que com elementos fora desse grupo. Por exemplo, se você tiver um conjunto de dados de clientes com base em suas preferências de compra, um algoritmo de agrupamento pode identificar diferentes clusters de clientes que compartilham padrões de compra semelhantes. Cada cluster representaria um grupo de clientes com características de compra comuns.
 
 
-6. Explique o funcionamento do algoritmo K-Means.
+(**)06.Explique o funcionamento do algoritmo K-Means.(**) 
 
 Resposta: Abaixo o passo a passo do funcionamento do algoritmo K-Means:
 
@@ -69,11 +69,11 @@ O centróide é recalculado usando os pontos que foram atribuídos a esse cluste
 
 Passo 4.Repetição: Repita os passos 2 e 3 até que uma condição de parada seja atendida. A condição de parada pode ser um número fixo de iterações, a convergência dos centróides, ou outra métrica definida pelo usuário.
 
-7. Explique o que é aprendizado supervisionado.
+(**)07.Explique o que é aprendizado supervisionado.(**) 
 
  Resposta: É definido pelo uso de conjuntos de dados rotulados para treinar algoritmos que classificam dados ou preveem resultados com precisão. À medida que os dados de input são inseridos no modelo, ele adapta sua ponderação até que o modelo seja ajustado adequadamente, o que ocorre como parte do processo de validação cruzada. O aprendizado supervisionado ajuda as organizações a resolver diversos problemas do mundo real em grande escala, um exemplo de aprendizado supervisonado é a classificação de spam em uma pasta separada da sua caixa de entrada.
 
-8. Explique o funcionamento do algoritmo KNN.
+(**)08.Explique o funcionamento do algoritmo KNN.(**) 
 
 Resposta: Abaixo o passo a passo do funcionamento do algoritmo KNN
 
@@ -90,7 +90,7 @@ Para regressão, a saída é frequentemente calculada como a média ou a mediana
 
 Conclusão: O ponto é classificado ou sua saída é prevista com base na maioria dos rótulos ou valores dos k vizinhos mais próximos.
 
-9. Comente sobre uma área de aplicação da IA na indústria automobilística.
+(**)09.Comente sobre uma área de aplicação da IA na indústria automobilística.(**) 
 
 Resposta: Veículos Autônomos: A IA é fundamental para o desenvolvimento de veículos autônomos. Algoritmos avançados de aprendizado de máquina e visão computacional são usados para interpretar dados de sensores, como câmeras, radares e lidar, permitindo que os veículos tomem decisões em tempo real e naveguem de forma autônoma.
 
