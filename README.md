@@ -8,7 +8,7 @@
 Atividade Avaliativa II
 
 
-<b> 1. Explique a distância de Manhattan.<b>
+<b 1. Explique a distância de Manhattan.>
 
 Resposta: É a medida de distância entre dois pontos em um espaço euclidiano com uma grade de pontos.
 
