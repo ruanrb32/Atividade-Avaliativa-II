@@ -108,5 +108,3 @@ Desenvolvimento de Veículos: A IA é usada no processo de design e desenvolvime
 
 Análise de Dados e Conectividade: A coleta e análise de dados gerados pelos veículos conectados são facilitadas por algoritmos de IA. Isso fornece insights valiosos para os fabricantes sobre o desempenho dos veículos, preferências dos motoristas e necessidades de manutenção.
 
-10. Com base no tutorial disponível em: https://ateliware.com/blog/classificacao-knn-k-
-means. Implemente uma solução para o dataset Iris.
