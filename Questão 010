@@ -1,3 +1,7 @@
+# Esse exemplo simples de implementação utilizando o conjunto de dados Iris para uma tarefa de classificação. Neste exemplo, usaremos o algoritmo KNN para classificar as espécies de flores no conjunto de dados Iris
+
+
+
 # Importando bibliotecas necessárias
 import numpy as np
 import pandas as pd
