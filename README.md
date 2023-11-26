@@ -2,7 +2,11 @@
  Atividade 2
 
 
+ Respostas das Questões de 01 a 09
+
+
 Atividade Avaliativa II
+
 
 1. Explique a distância de Manhattan.
 
@@ -13,6 +17,7 @@ A Fórmula para calcular a distância entre dois pontos (x1,y1) e (x2,y2) em uma
 Exemplo: A distância de Manhattan é a soma das diferenças absolutas entre as coordenadas x e y dos dois pontos A(3,7) e B(5,9)
 
 |5-3| + |9-7| = 2+2 = 4
+
 
 
 2. Explique a distância euclidiana.
@@ -78,7 +83,7 @@ Passo 2 -> Escolha do Parâmetro k: O número k é um parâmetro crucial no algo
 
 Passo 3 -> Cálculo da Distância: Para um novo ponto de dados que precisa ser classificado ou para o qual se deseja prever um valor, o algoritmo calcula a distância entre esse ponto e todos os pontos de dados no conjunto de treinamento. A métrica de distância comum é a distância euclidiana, mas outras métricas podem ser usadas dependendo do problema.
 
-Passo 4-> Identificação dos Vizinhos Mais Próximos: O algoritmo seleciona os k pontos de dados mais próximos ao novo ponto com base na distância calculada.
+Passo 4 -> Identificação dos Vizinhos Mais Próximos: O algoritmo seleciona os k pontos de dados mais próximos ao novo ponto com base na distância calculada.
 
 Passo 5 -> Classificação ou Regressão: Para classificação, o rótulo mais comum entre os k vizinhos é atribuído ao novo ponto.
 Para regressão, a saída é frequentemente calculada como a média ou a mediana dos valores alvo dosk vizinhos.
